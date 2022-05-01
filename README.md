@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dyen5
 - 👀 I’m interested in ... aviation
 - 🌱 I’m currently learning ... Machine Learning at Scale
-- 💞️ I’m looking to collaborate on ... databrick 
+- 💞️ I’m looking to collaborate on ... databricks 
 - 📫 How to reach me ... dyen1@berkeley.edu
 
 <!---
